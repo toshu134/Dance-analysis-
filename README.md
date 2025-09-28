@@ -166,19 +166,5 @@ Response (example):
 }
 ```
 
----
-
-## 📌 Deliverables (per assignment)  
-
-- ✅ **Public GitHub Repo** → contains all code, Dockerfile, test scripts, and deployment files  
-- ✅ **Cloud Deployment (Render)** → endpoint: `https://calllus-assessment.onrender.com`  
-- ✅ **Unit Tests** → for analysis + API  
-- ✅ **README Documentation** → setup, API usage, Docker, deployment  
-- ✅ **Demo Video** → short 2-min recording showing:  
-  - uploading video via Streamlit  
-  - receiving JSON response from Flask API  
-
----
-
 👨‍💻 Author: Arnav Kumar Singh   
 🎯 Assignment Completed: Backend + Frontend + Testing + Docker + Deployment (Render)  
