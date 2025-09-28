@@ -8,7 +8,7 @@ A cloud-ready project for analyzing dance movements from video using:
 
 🚀 **Deployed on Render**:  
 ```
-https://calllus-assessment.onrender.com
+https://dance-analysis-1.onrender.com
 ```
 *(Note: This is the target Render deployment URL. Once the Render service is correctly configured, the above link will be live.)*  
 
